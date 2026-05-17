@@ -27,6 +27,11 @@ yarn-error.log*
 
 # env files (can opt-in for commiting if needed)
 .env*
+.env
+.env.local
+
+# local env files
+.env*.local 
 
 # vercel
 .vercel
